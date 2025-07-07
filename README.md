@@ -64,7 +64,6 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 **3. Install dependencies:**
 
-A `requirements.txt` file is not included, but you can install all necessary packages with the following command:
 ```bash
 pip install pandas numpy nltk torch transformers datasets accelerate
 ```
